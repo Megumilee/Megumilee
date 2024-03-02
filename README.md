@@ -1,4 +1,4 @@
-<h1 align="center"> 𝙾𝚕á 𝚓𝚘𝚟𝚎𝚖 𝚙𝚊𝚍𝚊𝚠𝚊𝚗! </h1>
+<h1 align="center"> 𝙾𝚕á 𝚓𝚘𝚟𝚎𝚖 𝚙𝚊𝚍𝚊𝚠𝚊𝚗!   </h1>
 
 <div>
 <h2 align="center"> 🦊 ~ Sobre mim ~ 🦊 </h2>
@@ -9,7 +9,6 @@
 - 💻 Atualmente trabalho com Back-End
 - 🌱 Estou aprendendo Front-End
 - 😄 Pronomes: Ela/Dela
-
 
 <div style="display: inline_block"><br>  
   <h2 align="center"> 📖 ~ Conhecimentos ~ 📖 </h2>
@@ -25,6 +24,13 @@
     <img align="center" alt="Milene-js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <h3> DESIGN </h3>
     <img align="center" alt="Milene-figma" height="30" width="100" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
 
+
+<div> 
+  <h3> 👩🏼‍💻 ~ Me contate! ~ 👩🏼‍💻 </h3>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mirodrigues013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
