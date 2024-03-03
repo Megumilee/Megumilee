@@ -13,6 +13,19 @@
 - 🌱 Estou aprendendo Front-End
 - 😄 Pronomes: Ela/Dela
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=megumilee&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=megumilee&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=megumilee&show_icons=true" />
+</picture>
+
+
 <div style="display: inline_block"><br>  
   <h2 align="center"> 📖 ~ Conhecimentos ~ 📖 </h2>
     <h3> BACK-END </h3>
