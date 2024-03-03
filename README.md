@@ -1,5 +1,8 @@
 <h1 align="center"> 𝙾𝚕á 𝚓𝚘𝚟𝚎𝚖 𝚙𝚊𝚍𝚊𝚠𝚊𝚗!   </h1>
 
+<p align="center">
+  <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQzejdqeThydjY0bjczaWM0ZG1zbGI3N3Vndjh3d2w3Mmc4cDFseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
+</p>
 <div>
 <h2 align="center"> 🦊 ~ Sobre mim ~ 🦊 </h2>
   <div align="center">
@@ -24,13 +27,13 @@
     <img align="center" alt="Milene-js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <h3> DESIGN </h3>
     <img align="center" alt="Milene-figma" height="30" width="100" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="Milene-behance" height="30" width="100" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
 </div>
 
 
 <div> 
-  <h3> 👩🏼‍💻 ~ Me contate! ~ 👩🏼‍💻 </h3>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <h3> 👩🏼‍💻 ~ Contatos ~ 👩🏼‍💻 </h3>
   <a href = "mailto:mirodrigues013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/milene-rodrigues013/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
