@@ -54,6 +54,5 @@
 <div>
 <p align="center">
   <h3> 💖 Obrigada por visitar meu perfil! 💖 </h3>
-  <img width="150" src="https://cdn.picrew.me/shareImg/org/202403/338224_7yVwEOxO.png">
 </p>
 </div>
